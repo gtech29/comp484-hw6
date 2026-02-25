@@ -21,7 +21,8 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
 5.	Pick two Google Fonts and add them to your site (https://fonts.google.com/)
 			a.	Go to the Google Fonts website explore and pick two web-safe fonts for your site
 			b.	The fonts you select will be added to a collection in the selected families. 
-			c. Copy the standard embed link. This should look familiar since it's using the same link tag we use to add our CSS file. This snippet will actually link to Google Style Sheet, and this is how the font families are loaded onto your webpage
+			c. Copy the standard embed link. This should look familiar since it's using the same link tag we use to add our CSS file. 
+                This snippet will actually link to Google Style Sheet, and this is how the font families are loaded onto your webpage
             d. Add the code snippet to the head section of your index file and put it right before the styles.css file.
             e. Now that our new fonts are loaded into the page, set a new default font family back in styles.css for body, h1, h2, etc. 
 
@@ -30,5 +31,7 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
             b. feel free to play around with the font family, or font sizes of the other headings or body text, as you wish
 
 7. Add some font-weight properties
-            a. In the Google Fonts site go back and take a look at the options for selecting different typefaces and font weights. After you've selected your font choices open the drawer and go to this Customize tab. Here you'll see options for different font weights. You can choose as many as you'd like but the more you choose, the more resources your page has to load. So only add what you need.
+            a. In the Google Fonts site go back and take a look at the options for selecting different typefaces and font weights. 
+                After you've selected your font choices open the drawer and go to this Customize tab. Here you'll see options for different font weights.
+                You can choose as many as you'd like but the more you choose, the more resources your page has to load. So only add what you need.
             b. copy the new embed code and update it to your html file.
